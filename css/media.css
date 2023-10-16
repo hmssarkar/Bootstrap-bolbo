@@ -1,0 +1,21 @@
+/* <?-- Smartphones (portrait) ---------- / */
+@media screen and (max-width: 520px){
+    /* .button{
+        width: 5rem;
+        height: 3rem;
+        border-radius: 2.1rem;
+    } */
+    html{
+        font-size: 60%;
+    }
+    .e-postiton{
+        margin-top: 100px !important;
+    }
+    
+}
+
+@media screen and (max-width: 920px){
+    .hide-sm{
+        display: none;
+    }
+}

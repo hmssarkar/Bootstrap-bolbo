@@ -1,0 +1,15 @@
+:root{
+    --highlight:#0b2641;
+    --hColor:#4fe8a5;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;;
+}
+
+.bg-highlight{
+    background-color: var(--highlight);
+}
+.h-color{
+    color: var(--hColor);
+}
