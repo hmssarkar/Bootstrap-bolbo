@@ -5,4 +5,4 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Live project:ttps://hmssarkar.github.io/Bootstrap-bolbo/
+Live project: https://hmssarkar.github.io/Bootstrap-bolbo/
